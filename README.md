@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a>
-![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloodFutur&count_private=true&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=BloodFutur&count_private=true&show_icons=true&theme=gruvbox&locale=en"></img>
   </a>
-  <a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFutur&layout=compact&langs_count=10&card_width=445)
+ <a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFutur&layout=compact&langs_count=10&card_width=445&theme=gruvbox&locale=ru"></img>
 
 </a>
