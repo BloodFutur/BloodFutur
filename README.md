@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a>
 ![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloodFutur&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFutur&layout=compact&langs_count=10&card_width=445)]
+  </a>
+  <a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFutur&layout=compact&langs_count=10&card_width=445)
+
+</a>
