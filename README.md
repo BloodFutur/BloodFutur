@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github.com/BloodFutur/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/BloodFutur/github-stats/blob/master/generated/languages.svg)
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=BloodFutur&count_private=true&show_icons=true&theme=gruvbox&locale=en"></img>
   </a>
