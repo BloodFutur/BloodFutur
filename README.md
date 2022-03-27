@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github.com/BloodFutur/github-stats/blob/master/generated/overview.svg)
+
 ![](https://github.com/BloodFutur/github-stats/blob/master/generated/languages.svg)
-<a>
+<!-- <a>
   <img src="https://github-readme-stats.vercel.app/api?username=BloodFutur&count_private=true&show_icons=true&theme=gruvbox&locale=en"></img>
   </a>
  <a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFutur&layout=compact&langs_count=10&card_width=445&theme=gruvbox&locale=ru"></img>
 
 </a>
+ -->
