@@ -22,6 +22,6 @@ I also develop some websites on my spare time.
 
 At Club Robot of INSA Toulouse, I developed [this library](https://github.com/ClubRobotInsat/herkulex-stm32f1xx) which allows to use Herkulex servo-motors on STM32f1 in Rust.
 
-![](https://github.com/BloodFutur/github-stats/blob/master/generated/overview.svg)
+<!-- ![](https://github.com/BloodFutur/github-stats/blob/master/generated/overview.svg) -->
 
 
